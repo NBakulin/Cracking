@@ -1,4 +1,3 @@
-alphabet = 'abcdefghijklmnopqrstuvwxyz'
 print('Input the first string:')
 first_string = input()
 print('Input the second string:')
